@@ -11,6 +11,9 @@ class Board:
             self.config = config
         print(board)
 
+    # TODO: Initialize the board with pieces
+    # TODO: Add helper functions for printing, getting pieces, converting notation
+
 
 if __name__ == "__main__":
     game_board = Board()
